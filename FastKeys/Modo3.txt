@@ -1,0 +1,501 @@
+Zero!
+Um!
+Dois!
+Três!
+Quatro!
+Cinco!
+Seis!
+Sete!
+Oito!
+Nove!
+Dez!
+Onze!
+Doze!
+Treze!
+Catorze!
+Quinze!
+Dezesseis!
+Dezessete!
+Dezoito!
+Dezenove!
+Vinte!
+Vinte e um!
+Vinte e dois!
+Vinte e três!
+Vinte e quatro!
+Vinte e cinco!
+Vinte e seis!
+Vinte e sete!
+Vinte e oito!
+Vinte e nove!
+Trinta!
+Trinta e um!
+Trinta e dois!
+Trinta e três!
+Trinta e quatro!
+Trinta e cinco!
+Trinta e seis!
+Trinta e sete!
+Trinta e oito!
+Trinta e nove!
+Quarenta!
+Quarenta e um!
+Quarenta e dois!
+Quarenta e três!
+Quarenta e quatro!
+Quarenta e cinco!
+Quarenta e seis!
+Quarenta e sete!
+Quarenta e oito!
+Quarenta e nove!
+Cinquenta!
+Cinquenta e um!
+Cinquenta e dois!
+Cinquenta e três!
+Cinquenta e quatro!
+Cinquenta e cinco!
+Cinquenta e seis!
+Cinquenta e sete!
+Cinquenta e oito!
+Cinquenta e nove!
+Sessenta!
+Sessenta e um!
+Sessenta e dois!
+Sessenta e três!
+Sessenta e quatro!
+Sessenta e cinco!
+Sessenta e seis!
+Sessenta e sete!
+Sessenta e oito!
+Sessenta e nove!
+Setenta!
+Setenta e um!
+Setenta e dois!
+Setenta e três!
+Setenta e quatro!
+Setenta e cinco!
+Setenta e seis!
+Setenta e sete!
+Setenta e oito!
+Setenta e nove!
+Oitenta!
+Oitenta e um!
+Oitenta e dois!
+Oitenta e três!
+Oitenta e quatro!
+Oitenta e cinco!
+Oitenta e seis!
+Oitenta e sete!
+Oitenta e oito!
+Oitenta e nove!
+Noventa!
+Noventa e um!
+Noventa e dois!
+Noventa e três!
+Noventa e quatro!
+Noventa e cinco!
+Noventa e seis!
+Noventa e sete!
+Noventa e oito!
+Noventa e nove!
+Cem!
+Cento e um!
+Cento e dois!
+Cento e três!
+Cento e quatro!
+Cento e cinco!
+Cento e seis!
+Cento e sete!
+Cento e oito!
+Cento e nove!
+Cento e dez!
+Cento e onze!
+Cento e doze!
+Cento e treze!
+Cento e catorze!
+Cento e quinze!
+Cento e dezesseis!
+Cento e dezessete!
+Cento e dezoito!
+Cento e dezenove!
+Cento e vinte!
+Cento e vinte e um!
+Cento e vinte e dois!
+Cento e vinte e três!
+Cento e vinte e quatro!
+Cento e vinte e cinco!
+Cento e vinte e seis!
+Cento e vinte e sete!
+Cento e vinte e oito!
+Cento e vinte e nove!
+Cento e trinta!
+Cento e trinta e um!
+Cento e trinta e dois!
+Cento e trinta e três!
+Cento e trinta e quatro!
+Cento e trinta e cinco!
+Cento e trinta e seis!
+Cento e trinta e sete!
+Cento e trinta e oito!
+Cento e trinta e nove!
+Cento e quarenta!
+Cento e quarenta e um!
+Cento e quarenta e dois!
+Cento e quarenta e três!
+Cento e quarenta e quatro!
+Cento e quarenta e cinco!
+Cento e quarenta e seis!
+Cento e quarenta e sete!
+Cento e quarenta e oito!
+Cento e quarenta e nove!
+Cento e cinquenta!
+Cento e cinquenta e um!
+Cento e cinquenta e dois!
+Cento e cinquenta e três!
+Cento e cinquenta e quatro!
+Cento e cinquenta e cinco!
+Cento e cinquenta e seis!
+Cento e cinquenta e sete!
+Cento e cinquenta e oito!
+Cento e cinquenta e nove!
+Cento e sessenta!
+Cento e sessenta e um!
+Cento e sessenta e dois!
+Cento e sessenta e três!
+Cento e sessenta e quatro!
+Cento e sessenta e cinco!
+Cento e sessenta e seis!
+Cento e sessenta e sete!
+Cento e sessenta e oito!
+Cento e sessenta e nove!
+Cento e setenta!
+Cento e setenta e um!
+Cento e setenta e dois!
+Cento e setenta e três!
+Cento e setenta e quatro!
+Cento e setenta e cinco!
+Cento e setenta e seis!
+Cento e setenta e sete!
+Cento e setenta e oito!
+Cento e setenta e nove!
+Cento e oitenta!
+Cento e oitenta e um!
+Cento e oitenta e dois!
+Cento e oitenta e três!
+Cento e oitenta e quatro!
+Cento e oitenta e cinco!
+Cento e oitenta e seis!
+Cento e oitenta e sete!
+Cento e oitenta e oito!
+Cento e oitenta e nove!
+Cento e noventa!
+Cento e noventa e um!
+Cento e noventa e dois!
+Cento e noventa e três!
+Cento e noventa e quatro!
+Cento e noventa e cinco!
+Cento e noventa e seis!
+Cento e noventa e sete!
+Cento e noventa e oito!
+Cento e noventa e nove!
+Duzentos!
+Duzentos e um!
+Duzentos e dois!
+Duzentos e três!
+Duzentos e quatro!
+Duzentos e cinco!
+Duzentos e seis!
+Duzentos e sete!
+Duzentos e oito!
+Duzentos e nove!
+Duzentos e dez!
+Duzentos e onze!
+Duzentos e doze!
+Duzentos e treze!
+Duzentos e catorze!
+Duzentos e quinze!
+Duzentos e dezesseis!
+Duzentos e dezessete!
+Duzentos e dezoito!
+Duzentos e dezenove!
+Duzentos e vinte!
+Duzentos e vinte e um!
+Duzentos e vinte e dois!
+Duzentos e vinte e três!
+Duzentos e vinte e quatro!
+Duzentos e vinte e cinco!
+Duzentos e vinte e seis!
+Duzentos e vinte e sete!
+Duzentos e vinte e oito!
+Duzentos e vinte e nove!
+Duzentos e trinta!
+Duzentos e trinta e um!
+Duzentos e trinta e dois!
+Duzentos e trinta e três!
+Duzentos e trinta e quatro!
+Duzentos e trinta e cinco!
+Duzentos e trinta e seis!
+Duzentos e trinta e sete!
+Duzentos e trinta e oito!
+Duzentos e trinta e nove!
+Duzentos e quarenta!
+Duzentos e quarenta e um!
+Duzentos e quarenta e dois!
+Duzentos e quarenta e três!
+Duzentos e quarenta e quatro!
+Duzentos e quarenta e cinco!
+Duzentos e quarenta e seis!
+Duzentos e quarenta e sete!
+Duzentos e quarenta e oito!
+Duzentos e quarenta e nove!
+Duzentos e cinquenta!
+Duzentos e cinquenta e um!
+Duzentos e cinquenta e dois!
+Duzentos e cinquenta e três!
+Duzentos e cinquenta e quatro!
+Duzentos e cinquenta e cinco!
+Duzentos e cinquenta e seis!
+Duzentos e cinquenta e sete!
+Duzentos e cinquenta e oito!
+Duzentos e cinquenta e nove!
+Duzentos e sessenta!
+Duzentos e sessenta e um!
+Duzentos e sessenta e dois!
+Duzentos e sessenta e três!
+Duzentos e sessenta e quatro!
+Duzentos e sessenta e cinco!
+Duzentos e sessenta e seis!
+Duzentos e sessenta e sete!
+Duzentos e sessenta e oito!
+Duzentos e sessenta e nove!
+Duzentos e setenta!
+Duzentos e setenta e um!
+Duzentos e setenta e dois!
+Duzentos e setenta e três!
+Duzentos e setenta e quatro!
+Duzentos e setenta e cinco!
+Duzentos e setenta e seis!
+Duzentos e setenta e sete!
+Duzentos e setenta e oito!
+Duzentos e setenta e nove!
+Duzentos e oitenta!
+Duzentos e oitenta e um!
+Duzentos e oitenta e dois!
+Duzentos e oitenta e três!
+Duzentos e oitenta e quatro!
+Duzentos e oitenta e cinco!
+Duzentos e oitenta e seis!
+Duzentos e oitenta e sete!
+Duzentos e oitenta e oito!
+Duzentos e oitenta e nove!
+Duzentos e noventa!
+Duzentos e noventa e um!
+Duzentos e noventa e dois!
+Duzentos e noventa e três!
+Duzentos e noventa e quatro!
+Duzentos e noventa e cinco!
+Duzentos e noventa e seis!
+Duzentos e noventa e sete!
+Duzentos e noventa e oito!
+Duzentos e noventa e nove!
+Trezentos!
+Trezentos e um!
+Trezentos e dois!
+Trezentos e três!
+Trezentos e quatro!
+Trezentos e cinco!
+Trezentos e seis!
+Trezentos e sete!
+Trezentos e oito!
+Trezentos e nove!
+Trezentos e dez!
+Trezentos e onze!
+Trezentos e doze!
+Trezentos e treze!
+Trezentos e catorze!
+Trezentos e quinze!
+Trezentos e dezesseis!
+Trezentos e dezessete!
+Trezentos e dezoito!
+Trezentos e dezenove!
+Trezentos e vinte!
+Trezentos e vinte e um!
+Trezentos e vinte e dois!
+Trezentos e vinte e três!
+Trezentos e vinte e quatro!
+Trezentos e vinte e cinco!
+Trezentos e vinte e seis!
+Trezentos e vinte e sete!
+Trezentos e vinte e oito!
+Trezentos e vinte e nove!
+Trezentos e trinta!
+Trezentos e trinta e um!
+Trezentos e trinta e dois!
+Trezentos e trinta e três!
+Trezentos e trinta e quatro!
+Trezentos e trinta e cinco!
+Trezentos e trinta e seis!
+Trezentos e trinta e sete!
+Trezentos e trinta e oito!
+Trezentos e trinta e nove!
+Trezentos e quarenta!
+Trezentos e quarenta e um!
+Trezentos e quarenta e dois!
+Trezentos e quarenta e três!
+Trezentos e quarenta e quatro!
+Trezentos e quarenta e cinco!
+Trezentos e quarenta e seis!
+Trezentos e quarenta e sete!
+Trezentos e quarenta e oito!
+Trezentos e quarenta e nove!
+Trezentos e cinquenta!
+Trezentos e cinquenta e um!
+Trezentos e cinquenta e dois!
+Trezentos e cinquenta e três!
+Trezentos e cinquenta e quatro!
+Trezentos e cinquenta e cinco!
+Trezentos e cinquenta e seis!
+Trezentos e cinquenta e sete!
+Trezentos e cinquenta e oito!
+Trezentos e cinquenta e nove!
+Trezentos e sessenta!
+Trezentos e sessenta e um!
+Trezentos e sessenta e dois!
+Trezentos e sessenta e três!
+Trezentos e sessenta e quatro!
+Trezentos e sessenta e cinco!
+Trezentos e sessenta e seis!
+Trezentos e sessenta e sete!
+Trezentos e sessenta e oito!
+Trezentos e sessenta e nove!
+Trezentos e setenta!
+Trezentos e setenta e um!
+Trezentos e setenta e dois!
+Trezentos e setenta e três!
+Trezentos e setenta e quatro!
+Trezentos e setenta e cinco!
+Trezentos e setenta e seis!
+Trezentos e setenta e sete!
+Trezentos e setenta e oito!
+Trezentos e setenta e nove!
+Trezentos e oitenta!
+Trezentos e oitenta e um!
+Trezentos e oitenta e dois!
+Trezentos e oitenta e três!
+Trezentos e oitenta e quatro!
+Trezentos e oitenta e cinco!
+Trezentos e oitenta e seis!
+Trezentos e oitenta e sete!
+Trezentos e oitenta e oito!
+Trezentos e oitenta e nove!
+Trezentos e noventa!
+Trezentos e noventa e um!
+Trezentos e noventa e dois!
+Trezentos e noventa e três!
+Trezentos e noventa e quatro!
+Trezentos e noventa e cinco!
+Trezentos e noventa e seis!
+Trezentos e noventa e sete!
+Trezentos e noventa e oito!
+Trezentos e noventa e nove!
+Quatrocentos!
+Quatrocentos e um!
+Quatrocentos e dois!
+Quatrocentos e três!
+Quatrocentos e quatro!
+Quatrocentos e cinco!
+Quatrocentos e seis!
+Quatrocentos e sete!
+Quatrocentos e oito!
+Quatrocentos e nove!
+Quatrocentos e dez!
+Quatrocentos e onze!
+Quatrocentos e doze!
+Quatrocentos e treze!
+Quatrocentos e catorze!
+Quatrocentos e quinze!
+Quatrocentos e dezesseis!
+Quatrocentos e dezessete!
+Quatrocentos e dezoito!
+Quatrocentos e dezenove!
+Quatrocentos e vinte!
+Quatrocentos e vinte e um!
+Quatrocentos e vinte e dois!
+Quatrocentos e vinte e três!
+Quatrocentos e vinte e quatro!
+Quatrocentos e vinte e cinco!
+Quatrocentos e vinte e seis!
+Quatrocentos e vinte e sete!
+Quatrocentos e vinte e oito!
+Quatrocentos e vinte e nove!
+Quatrocentos e trinta!
+Quatrocentos e trinta e um!
+Quatrocentos e trinta e dois!
+Quatrocentos e trinta e três!
+Quatrocentos e trinta e quatro!
+Quatrocentos e trinta e cinco!
+Quatrocentos e trinta e seis!
+Quatrocentos e trinta e sete!
+Quatrocentos e trinta e oito!
+Quatrocentos e trinta e nove!
+Quatrocentos e quarenta!
+Quatrocentos e quarenta e um!
+Quatrocentos e quarenta e dois!
+Quatrocentos e quarenta e três!
+Quatrocentos e quarenta e quatro!
+Quatrocentos e quarenta e cinco!
+Quatrocentos e quarenta e seis!
+Quatrocentos e quarenta e sete!
+Quatrocentos e quarenta e oito!
+Quatrocentos e quarenta e nove!
+Quatrocentos e cinquenta!
+Quatrocentos e cinquenta e um!
+Quatrocentos e cinquenta e dois!
+Quatrocentos e cinquenta e três!
+Quatrocentos e cinquenta e quatro!
+Quatrocentos e cinquenta e cinco!
+Quatrocentos e cinquenta e seis!
+Quatrocentos e cinquenta e sete!
+Quatrocentos e cinquenta e oito!
+Quatrocentos e cinquenta e nove!
+Quatrocentos e sessenta!
+Quatrocentos e sessenta e um!
+Quatrocentos e sessenta e dois!
+Quatrocentos e sessenta e três!
+Quatrocentos e sessenta e quatro!
+Quatrocentos e sessenta e cinco!
+Quatrocentos e sessenta e seis!
+Quatrocentos e sessenta e sete!
+Quatrocentos e sessenta e oito!
+Quatrocentos e sessenta e nove!
+Quatrocentos e setenta!
+Quatrocentos e setenta e um!
+Quatrocentos e setenta e dois!
+Quatrocentos e setenta e três!
+Quatrocentos e setenta e quatro!
+Quatrocentos e setenta e cinco!
+Quatrocentos e setenta e seis!
+Quatrocentos e setenta e sete!
+Quatrocentos e setenta e oito!
+Quatrocentos e setenta e nove!
+Quatrocentos e oitenta!
+Quatrocentos e oitenta e um!
+Quatrocentos e oitenta e dois!
+Quatrocentos e oitenta e três!
+Quatrocentos e oitenta e quatro!
+Quatrocentos e oitenta e cinco!
+Quatrocentos e oitenta e seis!
+Quatrocentos e oitenta e sete!
+Quatrocentos e oitenta e oito!
+Quatrocentos e oitenta e nove!
+Quatrocentos e noventa!
+Quatrocentos e noventa e um!
+Quatrocentos e noventa e dois!
+Quatrocentos e noventa e três!
+Quatrocentos e noventa e quatro!
+Quatrocentos e noventa e cinco!
+Quatrocentos e noventa e seis!
+Quatrocentos e noventa e sete!
+Quatrocentos e noventa e oito!
+Quatrocentos e noventa e nove!
+Quinhentos!
